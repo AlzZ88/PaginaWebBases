@@ -1,5 +1,80 @@
-color {
-    color: darkviolet;
+html{
+    background-color: #52057b;
 
+}
+nav{
+    background: #000000;
+    padding: 5px;
+}
+body{
+    /* background-color: #bc6ff1 ;*/
+}
+.banner{
+    font-family: "Bangers";
+    display: inline-block;
+    color: #52057b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    font-size: 40px;
+}
+.banner:hover{
+    font-family: "Bangers";
+    display: inline-block;
+    color:#bc6ff1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    font-size: 40px;
+}
 
+.title1 {
+    background-color:#bc6ff1;
+    color: #892cdc;
+    font-size: 50px;
+    font-family: "Bangers";
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 1500px;
+    margin-top: 10px;
+    text-align: center;
+}
+.title1:hover {
+    background-color:#bc6ff1;
+    color: #000000;
+    font-size: 50px;
+    font-family: "Bangers";
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 1500px;
+    margin-top: 10px;
+    text-align: center;
+}
+.title2 {
+    color: #000000;
+    font-size: 40px;
+    font-family: "Bangers";
+    padding: 20px;
+}
+.sec1{
+    background-color: #bc6ff1;
+    padding: 10px;
+    text-align: center;
+
+}
+.p1{
+    text-align: center;
+    padding: 10px;
+}
+.sec{
+    padding: 10px;
+    display: flex;
+}
+.img{
+
+    background-image: url("aaa.png");
 }
